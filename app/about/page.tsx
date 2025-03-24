@@ -99,7 +99,7 @@ const AboutPage = () => {
       <section className="max-w-4xl mx-auto mb-16 md:mb-20 animate-section px-2">
         <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-4">Profile Summary</h2>
         <p className="text-gray-700 leading-relaxed text-sm md:text-base">
-          Holder of a <span className="text-red-500 font-semibold">Bachelor's Degree in Design</span> from Universidade Lusófona de Cabo Verde. 
+          Holder of a <span className="text-red-500 font-semibold">Bachelors Degree in Design</span> from Universidade Lusófona de Cabo Verde. 
           Creative professional with 4+ years experience specializing in brand development and digital solutions. 
           Proven expertise in exhibition design, promotional campaigns, and cultural event branding.
         </p>
@@ -112,7 +112,7 @@ const AboutPage = () => {
           <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-4">Education</h2>
           <div className="bg-white p-5 rounded-xl shadow-md border-l-4 border-red-500">
             <h3 className="text-lg md:text-xl font-semibold text-gray-900 mb-1">
-              Bachelor's in Design
+              Bachelors in Design
             </h3>
             <p className="text-gray-700 text-sm md:text-base mb-1">
               Universidade Lusófona de Cabo Verde
