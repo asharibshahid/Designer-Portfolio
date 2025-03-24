@@ -6,7 +6,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto flex justify-between items-center">
        {/* Logo */}
        <Link href="/" className="flex items-center text-2xl font-bold text-white space-x-2 ">
-          <Image src="/logo.jpeg" alt="GS Designers Logo" width={40} height={40} className='rounded-full bg-black'/>
+          <Image src="/img90.jpg" alt="GS Designers Logo" width={40} height={40} className='rounded-full bg-black'/>
           <span>GS DESIGNERS<span className="text-red-500">.</span></span>
         </Link>
 
