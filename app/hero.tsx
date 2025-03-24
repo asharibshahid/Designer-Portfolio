@@ -17,7 +17,7 @@ const Hero: React.FC = () => {
           transition={{ duration: 0.8, delay: 0.2 }}
         >
           <img
-            src="/logo.jpeg"
+            src="/img90.jpg"
             alt="Designer"
             className="w-full h-full object-cover "
           />
