@@ -121,7 +121,7 @@ const AboutPage = () => {
             <ul className="list-disc pl-4 text-gray-700 space-y-1 text-sm">
               <li>Focus on Digital Media & Brand Strategy</li>
               <li>Advanced Visualization Techniques</li>
-              <li>Cultural Heritage Design Projects</li>
+              <li>Multimedia e Audio Visuals</li>
             </ul>
           </div>
         </section>
@@ -188,7 +188,7 @@ const experience = [
   },
   {
     title: "Graphic Designer",
-    company: "Trabalhos Feltos",
+    company: "Institute Of Cultural Heritage",
     duration: "2021 2022",
     responsibilities: [
       "Designed Fonte Lima historical exhibition panels",
