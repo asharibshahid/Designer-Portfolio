@@ -112,7 +112,7 @@ const AboutPage = () => {
           <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-4">Education</h2>
           <div className="bg-white p-5 rounded-xl shadow-md border-l-4 border-red-500">
             <h3 className="text-lg md:text-xl font-semibold text-gray-900 mb-1">
-              Bachelors in Design
+          Licenciatura em design
             </h3>
             <p className="text-gray-700 text-sm md:text-base mb-1">
               Universidade Lusófona de Cabo Verde
