@@ -144,7 +144,7 @@ const ContactPage = () => {
               <div className="flex items-center gap-4">
                 <FiPhone className="w-6 h-6 text-red-200" />
                 <div>
-                  <p className="font-medium">+238 994 03 92</p>
+                  <p className="font-medium">983 12 32</p>
                   <p className="text-sm text-red-100">Mon - Fri, 9am - 5pm</p>
                 </div>
               </div>
@@ -153,7 +153,7 @@ const ContactPage = () => {
               <div className="flex items-center gap-4">
                 <FiMail className="w-6 h-6 text-red-200" />
                 <div>
-                  <p className="font-medium">gelsonmonteiro93@gmail.com</p>
+                  <p className="font-medium">creativevisionstudio23@gmail.com</p>
                   <p className="text-sm text-red-100">
                     gsdesign15@gmail.com
                   </p>
