@@ -187,8 +187,8 @@ const experience = [
     technologies: ["Illustrator", "InDesign", "Photoshop", "Premiere Pro"]
   },
   {
-    title: "Graphic Designer",
-    company: "Institute Of Cultural Heritage",
+    title: "Institude Of Cultural Heritage",
+    company: "Graphic Design",
     duration: "2021 2022",
     responsibilities: [
       "Designed Fonte Lima historical exhibition panels",
