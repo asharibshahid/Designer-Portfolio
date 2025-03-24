@@ -185,7 +185,27 @@ const experience = [
       "Designed cultural festival collateral"
     ],
     technologies: ["Procreate", "After Effects", "Canva", "Figma"]
-  }
+  } ,
+   {
+    title: "Graphic Designer",
+    company: "Casa+Print",
+    duration: "2021",
+    responsibilities: [
+      "Label production for products",
+      "Design and production of banners, posters, and flyers for advertising",
+      "Creation of banners and social media posts",
+    ],
+  },
+  {
+    title: "Graphic Designer",
+    company: "Ximango - Sabor e Arte Lda / Palmarejo",
+    duration: "2019 - 2020",
+    responsibilities: [
+      "Label production for products",
+      "Design and production of banners, posters, and flyers for advertising",
+      "Development of business cards, logos, and stationery",
+    ],
+  },
 ];
 
 export default AboutPage;
