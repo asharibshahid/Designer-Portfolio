@@ -65,13 +65,13 @@ const AboutPage = () => {
                 <div className="flex items-center gap-2">
                   <FaEnvelope className="text-red-500 shrink-0" />
                   <a href="mailto:gelsonmonteiro93@gmail.com" className="text-gray-700 hover:text-red-500 text-sm md:text-base">
-                  reativevisionstudio23@gmail.com
+                  creativevisionstudio23@gmail.com
                   </a>
                 </div>
                 <div className="flex items-center gap-2">
                   <FaEnvelope className="text-red-500 shrink-0 opacity-0" />
                   <a href="mailto:gsdesign15@gmail.com" className="text-gray-700 hover:text-red-500 text-sm md:text-base">
-                   reativevisionstudio23@gmail.com
+                   creativevisionstudio23@gmail.com
                   </a>
                 </div>
               </div>
