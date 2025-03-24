@@ -59,19 +59,19 @@ const AboutPage = () => {
             <div className="space-y-2">
               <div className="flex items-center justify-center md:justify-start gap-2">
                 <FaPhone className="text-red-500 shrink-0" />
-                <span className="text-gray-700 text-sm md:text-base">+238 994 03 92</span>
+                <span className="text-gray-700 text-sm md:text-base">983 12 32</span>
               </div>
               <div className="flex flex-col items-center md:items-start gap-1">
                 <div className="flex items-center gap-2">
                   <FaEnvelope className="text-red-500 shrink-0" />
                   <a href="mailto:gelsonmonteiro93@gmail.com" className="text-gray-700 hover:text-red-500 text-sm md:text-base">
-                    gelsonmonteiro93@gmail.com
+                  reativevisionstudio23@gmail.com
                   </a>
                 </div>
                 <div className="flex items-center gap-2">
                   <FaEnvelope className="text-red-500 shrink-0 opacity-0" />
                   <a href="mailto:gsdesign15@gmail.com" className="text-gray-700 hover:text-red-500 text-sm md:text-base">
-                    gsdesign15@gmail.com
+                   reativevisionstudio23@gmail.com
                   </a>
                 </div>
               </div>
@@ -99,7 +99,7 @@ const AboutPage = () => {
       <section className="max-w-4xl mx-auto mb-16 md:mb-20 animate-section px-2">
         <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-4">Profile Summary</h2>
         <p className="text-gray-700 leading-relaxed text-sm md:text-base">
-          Holder of a <span className="text-red-500 font-semibold">Bachelors Degree in Design</span> from Universidade Lusófona de Cabo Verde. 
+          Holder of a <span className="text-red-500 font-semibold">Licenciatura em design</span> from Universidade Lusófona de Cabo Verde. 
           Creative professional with 4+ years experience specializing in brand development and digital solutions. 
           Proven expertise in exhibition design, promotional campaigns, and cultural event branding.
         </p>
@@ -165,7 +165,7 @@ const experience = [
   {
     title: "Senior Graphic Designer",
     company: "Delta Engenharia",
-    duration: "2022 Present",
+    duration: "2023 Present",
     responsibilities: [
       "Led brand development for architectural firms",
       "Created comprehensive marketing packages",
@@ -187,8 +187,8 @@ const experience = [
     technologies: ["Illustrator", "InDesign", "Photoshop", "Premiere Pro"]
   },
   {
-    title: "Exhibition Designer",
-    company: "Infopublic, LDA",
+    title: "Graphic Designer",
+    company: "Trabalhos Feltos",
     duration: "2021 2022",
     responsibilities: [
       "Designed Fonte Lima historical exhibition panels",
