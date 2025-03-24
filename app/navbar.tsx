@@ -7,7 +7,7 @@ const Navbar = () => {
        {/* Logo */}
        <Link href="/" className="flex items-center text-2xl font-bold text-white space-x-2 ">
           <Image src="/img90.jpg" alt="GS Designers Logo" width={40} height={40} className='rounded-full bg-black'/>
-          <span>GS DESIGNERS<span className="text-red-500">.</span></span>
+          <span>Creative Vision Studio<span className="text-red-500">.</span></span>
         </Link>
 
         {/* Nav Links */}
