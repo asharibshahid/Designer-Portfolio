@@ -145,6 +145,7 @@ const ContactPage = () => {
                 <FiPhone className="w-6 h-6 text-red-200" />
                 <div>
                   <p className="font-medium">983 12 32</p>
+                       <p className="font-medium">+238 994 03 92 /</p>
                   <p className="text-sm text-red-100">Mon - Fri, 9am - 5pm</p>
                 </div>
               </div>
