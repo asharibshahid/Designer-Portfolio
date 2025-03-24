@@ -87,7 +87,7 @@ const AboutPage = () => {
             </div>
 
             <a
-              href="/cv-1.pdf"
+              href="/cv.pdf"
               download
               className="inline-flex items-center gap-2 px-5 py-2.5 bg-red-500 text-white rounded-lg hover:bg-red-600 transition-colors text-sm md:text-base mx-auto md:mx-0"
             >
@@ -152,7 +152,7 @@ const experience = [
   {
     title: "Senior Graphic Designer",
     company: "Delta Engenharia",
-    duration: "2023 - Present",
+    duration: "2022 - 2023",
     responsibilities: [
       "Layout production for festival catalogues",
       "Exhibition panel design for museums",
@@ -189,4 +189,3 @@ const experience = [
 ];
 
 export default AboutPage;
-
